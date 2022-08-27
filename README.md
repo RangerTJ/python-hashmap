@@ -1,5 +1,4 @@
 # python-hashmap
-Implementation of a hashmap for use in python, using both seperate-chaining and open address methods.
+Implementation of a hashmap for use in python, using both seperate-chaining (SC) and open address (OA) methods.
 
-Files to be uploaded pending approval/edits.
-[Self-note: just replace all DA stuff with python lists, since they're the same... for linked lists maybe use python collections module's deque object]
+Note: Need to fix/impement quadratic probing for both get and contains_key methods of the OA hashmap implementation.
