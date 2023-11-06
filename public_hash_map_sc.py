@@ -1,4 +1,4 @@
-# Author:       Raptor2k1
+# Author:       RangerTJ
 # Due Date:     8/9/2022
 # Description:  Implements a separate-chaining hash map using skeleton code provided by Oregon State University's
 #               CS-261 Data Structures course.
