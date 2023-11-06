@@ -1,4 +1,4 @@
-# Author:       Raptor2k1
+# Author:       RangerTJ
 # Due Date:     8/9/2022
 # Description:  Implements an open address hash map using quadratic probing based on provided dynamic arrays.
 #               Uses skeleton code provided by Oregon State University's CS-261 Data Structures course.
